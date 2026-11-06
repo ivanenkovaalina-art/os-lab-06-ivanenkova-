@@ -1,9 +1,9 @@
 Файл правил:  
-![](screenshots/img.jpg). 
+![](screenshots/IMG_20261106_083347_387.jpg). 
 Вывод sudo -l:  
-![](screenshots/img.jpg). 
+![](screenshots/IMG_20261106_083349_527.jpg). 
 Результаты проверки:  
-![](screenshots/img.jpg). 
+![](screenshots/IMG_20261106_083350_843.jpg). 
 
 
 
